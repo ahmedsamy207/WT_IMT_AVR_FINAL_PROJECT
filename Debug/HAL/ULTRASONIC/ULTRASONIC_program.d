@@ -1,0 +1,26 @@
+HAL/ULTRASONIC/ULTRASONIC_program.o HAL/ULTRASONIC/ULTRASONIC_program.o:  \
+ ../HAL/ULTRASONIC/ULTRASONIC_program.c \
+  ../HAL/ULTRASONIC/../../LIB/STD_TYPES.h \
+  ../HAL/ULTRASONIC/../../LIB/BIT_MATH.h \
+  ../HAL/ULTRASONIC/../../MCAL/DIO/DIO_interface.h \
+  ../HAL/ULTRASONIC/../../MCAL/TIMER/TIMER_interface.h \
+  ../HAL/ULTRASONIC/../../MCAL/GI/Global_Interrupt_interface.h \
+  ../HAL/ULTRASONIC/ULTRASONIC_interface.h \
+  ../HAL/ULTRASONIC/ULTRASONIC_config.h \
+  ../HAL/ULTRASONIC/ULTRASONIC_private.h
+
+../HAL/ULTRASONIC/../../LIB/STD_TYPES.h:
+
+../HAL/ULTRASONIC/../../LIB/BIT_MATH.h:
+
+../HAL/ULTRASONIC/../../MCAL/DIO/DIO_interface.h:
+
+../HAL/ULTRASONIC/../../MCAL/TIMER/TIMER_interface.h:
+
+../HAL/ULTRASONIC/../../MCAL/GI/Global_Interrupt_interface.h:
+
+../HAL/ULTRASONIC/ULTRASONIC_interface.h:
+
+../HAL/ULTRASONIC/ULTRASONIC_config.h:
+
+../HAL/ULTRASONIC/ULTRASONIC_private.h:
